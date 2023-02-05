@@ -6,6 +6,9 @@ Public Class Startup
         ' Discord Rich Presence
         InitRPC.Setup()
 
+        ' Showdown Combobox
+        Form1.sd_PokePos_cmb.SelectedIndex = 0
+
         ' Set internalBallNames_chk to checked by default.
         Form1.internalBallNames_chk.Checked = True
 

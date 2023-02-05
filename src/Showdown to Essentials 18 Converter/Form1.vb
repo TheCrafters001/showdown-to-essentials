@@ -559,4 +559,8 @@ Public Class Form1
     Private Sub numPoké_cmb_SelectedIndexChanged(sender As Object, e As EventArgs) Handles numPoké_cmb.SelectedIndexChanged
         pageEnabler.Enabler()
     End Sub
+
+    Private Sub sd_Parse_btn_Click(sender As Object, e As EventArgs) Handles sd_Parse_btn.Click
+        showdownConverter.parse()
+    End Sub
 End Class
