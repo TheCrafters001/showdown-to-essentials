@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "teamBuilderConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "18"
+    }
+  }
+}

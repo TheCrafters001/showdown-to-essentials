@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<item>
-	<version>2.7.2.0</version>
-	<url>https://github.com/TheCrafters001/showdown-to-essentials/releases/latest/download/ShowdowntoEssentials.Converter.exe</url>
-	<changelog>https://github.com/TheCrafters001/showdown-to-essentials/releases/latest</changelog>
-	<mandatory>true</mandatory>
-	<args>/SILENT</args>
-</item>

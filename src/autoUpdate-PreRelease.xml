@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<item>
-	<version>2.6.3.0</version>
-	<url>https://github.com/TheCrafters001/showdown-to-essentials/releases/tag/2.6.2.0-pre/StEC-PRERELEASE.exe</url>
-	<changelog>https://github.com/TheCrafters001/showdown-to-essentials/releases/tag/2.6.2.0-pre</changelog>
-	<mandatory>false</mandatory>
-	<args>/SILENT</args>
-</item>
